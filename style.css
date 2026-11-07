@@ -1,0 +1,42 @@
+html {
+  height: 100%;
+  background: 50% 50% no-repeat;
+    body {
+      background-color: rgb(251, 186, 114);
+    }
+    span {
+      background-color: rgb(202, 83, 16);
+    }
+
+    #main-image {
+      display: block;
+      margin: 0 auto 20px;
+    
+    }
+  
+h1 {
+    text-align: center;
+  border:3px solid rgb(143, 37, 12);  
+  }
+.basic-info {
+  border-block-style: dashed;
+  background-color: rgb(187, 77, 0);
+  margin-bottom: 10px;
+  
+}
+  .fun-facts-box {
+    border-block-style: dashed;
+    background-color: rgb(143, 37, 12);
+    margin-bottom: 10px;
+  }
+
+  .endanger-box {
+    border-block-style: dashed;
+    background-color: rgb(105, 30, 6);
+    margin-bottom: 10px;
+  }
+
+
+
+
+  
